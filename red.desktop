@@ -1,0 +1,11 @@
+[KGameTheme]
+Name=Red Marble
+Description=A red marbled patterned theme
+Author=Al Knepper
+AuthorEmail=
+Type=SVG
+FileName=red.svgz
+Preview=red.png
+
+[Desktop Entry]
+Name[en_US]=red.desktop
